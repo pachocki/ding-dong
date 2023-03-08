@@ -1,10 +1,11 @@
-Ding Dong
+# Ding Dong
+
 Ding Dong is a web application that allows you to create a profile and write comments and replies, similar to Twitter. The app is built using Next.js, a React framework for server-side rendering and static site generation.
 
-Getting Started
+# Getting Started
 To get started with Ding Dong, follow these steps:
 
-Clone the repository to your local machine:
+# Clone the repository to your local machine:
 
 bash
 Copy code
@@ -21,7 +22,7 @@ Copy code
 npm run dev
 Open http://localhost:3000 in your web browser to see the app.
 
-Features
+# Features
 Ding Dong allows you to:
 
 Create a profile with a username and profile picture.
@@ -31,7 +32,7 @@ View all comments and replies in chronological order.
 Like comments and replies.
 Edit and delete your own comments and replies.
 View other users' profiles and comments.
-Technologies Used
+# Technologies Used
 Ding Dong is built using:
 
 Next.js for server-side rendering and static site generation.
